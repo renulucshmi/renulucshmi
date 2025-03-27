@@ -63,9 +63,8 @@ Here’s something fun to make your visit more interactive! 😎
 
 ## 📝 How to Reach Me
 
-- 💬 **LinkedIn**: [AdeepaK2](https://linkedin.com/in/adeepak2)
-- 📧 **Email**: [adeepak2@example.com](mailto:adeepak2@example.com)
-- 🌐 **Website**: [adeepa.rocks](https://adeepa.rocks)
+- 💬 **LinkedIn**: [Renulucshmi Prakasan](https://www.linkedin.com/in/renulucshmi/)
+- 📧 **Email**: [renulucshmi@example.com](mailto:renulucshmi@example.com)
 
 ---
 
