@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **renulucshmi/renulucshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm **AdeepaK2**
+# Hi there! 👋 I'm **Renulucshmi**
 
 ### Full Stack Developer | AI Enthusiast | Tech Innovator | Open Source Contributor 🚀
 
