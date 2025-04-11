@@ -55,16 +55,10 @@ Here’s something fun to make your visit more interactive! 😎
 
 ---
 
-## 📈 GitHub Stats
-
-![AdeepaK2's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeepaK2&langs_count=10&layout=compact&theme=tokyonight)
-
----
-
 ## 📝 How to Reach Me
 
 - 💬 **LinkedIn**: [Renulucshmi Prakasan](https://www.linkedin.com/in/renulucshmi/)
-- 📧 **Email**: [renulucshmi@example.com](mailto:renulucshmi@example.com)
+- 📧 **Email**: [renulucshmi@gmail.com](mailto:renulucshmi@gmail.com)
 
 ---
 
