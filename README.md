@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I’m a passionate software engineer who loves working on **web** and **mobile applications**. I enjoy experimenting with **JavaScript**, **AI**, and cutting-edge technologies. If you want to collaborate, just shoot me a message! 😊
 
-![AdeepaK2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeepaK2&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
+
 
 ---
 
