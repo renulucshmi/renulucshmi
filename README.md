@@ -1,49 +1,63 @@
+# Hi there! 👋 I'm **Renulucshmi Prakasan**
 
+### 💻 Full Stack Developer | 🎓 Undergraduate @ University of Moratuwa | 🚀 Tech Dreamer  
+### AI Enthusiast | Open Source Contributor | Passionate Problem Solver
 
-<!--
-**renulucshmi/renulucshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! 👋 I'm **Renulucshmi**
-
-### Full Stack Developer | AI Enthusiast | Tech Innovator | Open Source Contributor 🚀
-
-Welcome to my GitHub! I’m a passionate software engineer who loves working on **web** and **mobile applications**. I enjoy experimenting with **JavaScript**, **AI**, and cutting-edge technologies. If you want to collaborate, just shoot me a message! 😊
-
-
+Welcome to my GitHub! I’m a second-year IT undergraduate at the University of Moratuwa, passionate about building practical and meaningful tech solutions.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🚧 What I’m Working On
+- 🌐 **SkillSwap Hub** – a modern skill-sharing platform with a barter-style system.
+- 🏫 **GoalX** – an Olympic Committee-pitched platform to solve Sri Lanka’s school sports equipment gaps.
+
+---
+
+### 🌱 Currently Exploring
+- 🔐 JWT Authentication & Secure API design  
+- ⚙️ Scalable admin dashboards with Next.js  
+- 🤖 AI-powered tools for social impact  
+
+---
+
+### 🤝 I’m Open to Collaborate On
+- Social good projects  
+- Open-source tools  
+- Creative UI/UX design projects  
+
+---
+
+### 💬 Ask Me About
+- Full stack development (Next.js + MongoDB)  
+- UI/UX design with Tailwind CSS  
+- Building student-led platforms and community tools  
+
+---
+
+## 🛠️ Technologies & Tools I Use
 
 ### Frontend:
-- **React.js** | **Next.js** | **JavaScript** | **TypeScript** | **HTML** | **CSS** | **SASS**
-- **Tailwind CSS** | **Material UI** | **Styled Components**
+- **Next.js 15** | **React.js** | **JavaScript** | **TypeScript**
+- **Tailwind CSS** | **HTML** | **CSS**
 
 ### Backend:
-- **Node.js** | **Express.js** | **MongoDB** | **Firebase**
+- **Node.js** | **MongoDB**
+- **JWT Authentication** | **API Routes (Next.js)**
 
-### Mobile Development:
-- **Flutter** | **Dart**
+### DevOps & Hosting:
+- **Vercel** | **MongoDB Atlas**
 
-### AI & Machine Learning:
-- **Python** | **TensorFlow** | **Keras** | **OpenCV**
+### UI/UX & Design:
+- **Figma** | **Canva** | **Lucidchart** (for diagrams)
+
+### Tools & Workflow:
+- **Git** | **GitHub** | **Postman** | **VS Code** | **ClickUp**
 
 ---
 
 ## 💡 About Me
 
-I’m always learning and exploring new technologies. When I’m not building cool stuff, I’m diving deep into **AI**, **machine learning**, and experimenting with new frameworks and libraries. Whether it’s developing **user-friendly** web apps or creating a solution with **AI**, I’m passionate about building things that solve real-world problems.
+I’m always learning and exploring new technologies. When I’m not building cool stuff, I’m diving deep into **AI**, **machine learning**, and experimenting with new frameworks and libraries. Whether it’s developing **user-friendly** web apps or creating solutions with **AI**, I’m passionate about building things that solve real-world problems.
 
 ---
 
@@ -55,7 +69,7 @@ Here’s something fun to make your visit more interactive! 😎
 
 ---
 
-## 📝 How to Reach Me
+## 📫 How to Reach Me
 
 - 💬 **LinkedIn**: [Renulucshmi Prakasan](https://www.linkedin.com/in/renulucshmi/)
 - 📧 **Email**: [renulucshmi@gmail.com](mailto:renulucshmi@gmail.com)
@@ -63,9 +77,11 @@ Here’s something fun to make your visit more interactive! 😎
 ---
 
 ## 🎨 Fun Facts
-- I’m a **music lover**, and I spend my free time learning new instruments 🎶
-- Passionate about building **AI-powered systems** to enhance productivity 🤖
-- I love **open-source contributions** and collaborating with fellow developers 🌍
+- I’m a **music lover**, and I spend my free time learning new instruments 🎶  
+- Passionate about building **AI-powered systems** to enhance productivity 🤖  
+- I love **open-source contributions** and collaborating with fellow developers 🌍  
+- I’m also a designer, editorial content creator, and an enthusiastic **Gavelier** 🎤  
+- Leading Team **Code102** on student-led innovations 🧠  
 
 ---
 
