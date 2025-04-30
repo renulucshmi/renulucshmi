@@ -10,6 +10,14 @@ Welcome to my GitHub! I’m a second-year IT undergraduate at the University of 
 
 ---
 
+## 📊 GitHub Stats
+
+![Renulucshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&hide=contribs&count_private=true)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
+
+---
+
 ### 🚧 What I’m Working On
 - 🌐 **SkillSwap Hub** – a modern skill-sharing platform with a barter-style system.
 - 🏫 **GoalX** – an Olympic Committee-pitched platform to solve Sri Lanka’s school sports equipment gaps.
@@ -64,13 +72,6 @@ I’m always learning and exploring new technologies. When I’m not building co
 
 ---
 
-## 🎨 Cool Animation Just For You! 🌟
-
-Here’s something fun to make your visit more interactive! 😎  
-![Cool Animation](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
----
-
 ## 📫 How to Reach Me
 
 - 💬 **LinkedIn**: [Renulucshmi Prakasan](https://www.linkedin.com/in/renulucshmi/)
@@ -89,17 +90,14 @@ Here’s something fun to make your visit more interactive! 😎
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!  
+I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
+
 ![Collaborate](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 ---
 
-## 📊 GitHub Stats
-
-![Renulucshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&hide=contribs&count_private=true)
-
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
+#### P.S. I believe that **collaboration** is the key to building better solutions. Let’s create something amazing together! 🚀
 
 ---
 
-#### P.S. I believe that
+### *Want to join the community? Check out my other open-source projects!*
