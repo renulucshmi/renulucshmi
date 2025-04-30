@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm **Renulucshmi Prakasan**
 
 ### 💻 Full Stack Developer | 🎓 Undergraduate @ University of Moratuwa | 🚀 Tech Dreamer  
-### AI Enthusiast | Open Source Contributor | Passionate Problem Solver
+### AI Enthusiast | Open Source Contributor | Passionate Problem Solver  
+
+> ✨ I’m passionate about building tools that empower people and spark change.  
+> Always learning, always creating — one project at a time.
 
 Welcome to my GitHub! I’m a second-year IT undergraduate at the University of Moratuwa, passionate about building practical and meaningful tech solutions.
 
@@ -48,7 +51,7 @@ Welcome to my GitHub! I’m a second-year IT undergraduate at the University of 
 - **Vercel** | **MongoDB Atlas**
 
 ### UI/UX & Design:
-- **Figma** | **Canva** | **Lucidchart** (for diagrams)
+- **Figma** | **Canva** | **Lucidchart**
 
 ### Tools & Workflow:
 - **Git** | **GitHub** | **Postman** | **VS Code** | **ClickUp**
@@ -63,9 +66,8 @@ I’m always learning and exploring new technologies. When I’m not building co
 
 ## 🎨 Cool Animation Just For You! 🌟
 
-Here’s something fun to make your visit more interactive! 😎
-
-![Cool Animation](https://media.giphy.com/media/3o6ZsU2aNxkMjw6DX2/giphy.gif)
+Here’s something fun to make your visit more interactive! 😎  
+![Cool Animation](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
@@ -87,15 +89,17 @@ Here’s something fun to make your visit more interactive! 😎
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
-
-![Collaborate](https://media.giphy.com/media/3o6ZsU2aNxkMjw6DX2/giphy.gif)
-
----
-
-#### P.S. I believe that **collaboration** is the key to building better solutions. Let’s create something amazing together! 🚀
+I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!  
+![Collaborate](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 ---
 
-### *Want to join the community? Check out my other open-source projects!*
+## 📊 GitHub Stats
 
+![Renulucshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&hide=contribs&count_private=true)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
+
+---
+
+#### P.S. I believe that
