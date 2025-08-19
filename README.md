@@ -10,11 +10,22 @@ Welcome to my GitHub! I’m a second-year IT undergraduate at the University of 
 
 ---
 
+<!-- 🎮 Game Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Retro Game Animation" width="600">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Renulucshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&hide=contribs&count_private=true)
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
+
+### 🔥 Current Streak
+<!-- Streak stats (auto-updates) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=renulucshmi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -92,7 +103,10 @@ I’m always learning and exploring new technologies. When I’m not building co
 
 I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
 
-![Collaborate](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+<!-- Secondary fun collab gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Collaborate" width="500">
+</p>
 
 ---
 
