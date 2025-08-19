@@ -3,10 +3,15 @@
 ### 💻 Full Stack Developer | 🎓 Undergraduate @ University of Moratuwa | 🚀 Tech Dreamer  
 ### AI Enthusiast | Open Source Contributor | Passionate Problem Solver  
 
+<!-- 🔤 Typing banner (Option 3) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
+
 > ✨ I’m passionate about building tools that empower people and spark change.  
 > Always learning, always creating — one project at a time.
 
-Welcome to my GitHub! I’m a second-year IT undergraduate at the University of Moratuwa, passionate about building practical and meaningful tech solutions.
+Welcome to my GitHub! I’m a third-year IT undergraduate at the University of Moratuwa, passionate about building practical and meaningful tech solutions.
 
 ---
 
@@ -24,8 +29,15 @@ Welcome to my GitHub! I’m a second-year IT undergraduate at the University of 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
 
 ### 🔥 Current Streak
-<!-- Streak stats (auto-updates) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=renulucshmi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+<!-- 🧊 3D Contribution Graph (Option 1) -->
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
 
 ---
 
@@ -103,7 +115,6 @@ I’m always learning and exploring new technologies. When I’m not building co
 
 I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
 
-<!-- Secondary fun collab gif -->
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Collaborate" width="500">
 </p>
