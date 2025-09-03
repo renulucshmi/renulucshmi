@@ -1,113 +1,73 @@
-# Hi there! 👋 I'm **Renulucshmi Prakasan**
+# Hi there! 👋 I'm Renulucshmi  
 
-### 💻 Full Stack Developer | 🎓 Undergraduate @ University of Moratuwa | 🚀 Tech Dreamer  
-### AI Enthusiast | Open Source Contributor | Passionate Problem Solver  
+**Full Stack Developer | Tech Enthusiast | Community Builder | Undergraduate 🚀**  
 
-> ✨ I’m passionate about building tools that empower people and spark change.  
-> Always learning, always creating — one project at a time.
-
-Welcome to my GitHub! I’m a second-year IT undergraduate at the University of Moratuwa, passionate about building practical and meaningful tech solutions.
+Welcome to my GitHub!  
+I'm passionate about crafting **scalable web applications**, exploring **IoT innovations**, and building **user-centric solutions**.  
+I love combining technology, design, and collaboration to make an impact. 🌟  
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Technologies & Tools  
 
-![Renulucshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&hide=contribs&count_private=true)
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renulucshmi&theme=github_dark)
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)  
+![Next.js API](https://img.shields.io/badge/-Next.js%20API-000?logo=next.js&logoColor=fff&style=for-the-badge)  
 
-### 🔥 Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=renulucshmi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
+![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)  
 
----
-
-## 📅 GitHub Metrics (auto-updates daily)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/renulucshmi/renulucshmi/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
----
-
-### 🚧 What I’m Working On
-- 🌐 **SkillSwap Hub** – a modern skill-sharing platform with a barter-style system.
-- 🏫 **GoalX** – an Olympic Committee-pitched platform to solve Sri Lanka’s school sports equipment gaps.
-
----
-
-### 🌱 Currently Exploring
-- 🔐 JWT Authentication & Secure API design  
-- ⚙️ Scalable admin dashboards with Next.js  
-- 🤖 AI-powered tools for social impact  
+**Tools & Others**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)  
 
 ---
 
-### 🤝 I’m Open to Collaborate On
-- Social good projects  
-- Open-source tools  
-- Creative UI/UX design projects  
+## 🌟 About Me  
+
+🎓 Third-year **IT Undergraduate** @ University of Moratuwa  
+🏆 Hackathon Finalist & SpiritX Runner-Up  
+👩‍💻 Passionate about **Next.js, MongoDB, IoT, and Full Stack Development**  
+📚 Always learning through **projects, volunteering, and leadership**  
+🤝 Active in **IEEE, Gavel, and student communities**  
+🐾 Dog lover (Brownie 🐶 ❤️)  
 
 ---
 
-### 💬 Ask Me About
-- Full stack development (Next.js + MongoDB)  
-- UI/UX design with Tailwind CSS  
-- Building student-led platforms and community tools  
+## 🚀 Projects  
+
+- **SkillSwap Hub** – A skill-exchange platform with role-based admin + automated badge system  
+- **GoalX** – SpiritX 2025 runner-up 🥈, sports equipment sharing for schools  
+- **QuickShift** – Gig platform for undergraduates & employers  
+- **Safe Carry Plus** – IoT-based smart luggage with fingerprint lock & GPS  
+
+*(Check out more on my [Portfolio Website](https://www.renulucshmi.me) 🌐)*  
 
 ---
 
-## 🛠️ Technologies & Tools I Use
+## 📊 GitHub Stats  
 
-### Frontend:
-- **Next.js 15** | **React.js** | **JavaScript** | **TypeScript**
-- **Tailwind CSS** | **HTML** | **CSS**
-
-### Backend:
-- **Node.js** | **MongoDB**
-- **JWT Authentication** | **API Routes (Next.js)**
-
-### DevOps & Hosting:
-- **Vercel** | **MongoDB Atlas**
-
-### UI/UX & Design:
-- **Figma** | **Canva** | **Lucidchart**
-
-### Tools & Workflow:
-- **Git** | **GitHub** | **Postman** | **VS Code** | **ClickUp**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renulucshmi&layout=compact&theme=radical)  
 
 ---
 
-## 💡 About Me
+## 🌐 Connect with Me  
 
-I’m always learning and exploring new technologies. When I’m not building cool stuff, I’m diving deep into **AI**, **machine learning**, and experimenting with new frameworks and libraries. Whether it’s developing **user-friendly** web apps or creating solutions with **AI**, I’m passionate about building things that solve real-world problems.
-
----
-
-## 📫 How to Reach Me
-
-- 💬 **LinkedIn**: [Renulucshmi Prakasan](https://www.linkedin.com/in/renulucshmi/)
-- 📧 **Email**: [renulucshmi@gmail.com](mailto:renulucshmi@gmail.com)
-
----
-
-## 🎨 Fun Facts
-- I’m a **music lover**, and I spend my free time learning new instruments 🎶  
-- Passionate about building **AI-powered systems** to enhance productivity 🤖  
-- I love **open-source contributions** and collaborating with fellow developers 🌍  
-- I’m also a designer, editorial content creator, and an enthusiastic **Gavelier** 🎤  
-- Leading Team **Code102** on student-led innovations 🧠  
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
-
-![Collaborate](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
-
----
-
-#### P.S. I believe that **collaboration** is the key to building better solutions. Let’s create something amazing together! 🚀
-
----
-
-### *Want to join the community? Check out my other open-source projects!*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/renulucshmi/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A192F?logo=vercel&logoColor=fff&style=for-the-badge)](https://www.renulucshmi.me)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/renulucshmi)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:renulucshmip@gmail.com)  
