@@ -60,8 +60,10 @@ I love combining technology, design, and collaboration to make an impact. 🌟
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renulucshmi&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renulucshmi&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renulucshmi&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ## 🌐 Connect with Me  
